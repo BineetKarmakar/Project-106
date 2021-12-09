@@ -1,0 +1,15 @@
+.copy_right{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: gray;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+};
+
+body{
+    background: linear-gradient(#006eff 0%,#ffc400 100%);
+};
